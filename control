@@ -1,0 +1,10 @@
+Package: org.thebigboss.homebuttontimerfs
+Name: Home Button Timer FS
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Conflicts: com.pw5a29.speedyhomey
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Flipswitch for home button timer.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Addons (Flipswitch)
